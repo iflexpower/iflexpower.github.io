@@ -354,7 +354,7 @@ img, svg {
   margin-right: 8pt; }
 
 html {
-  font-family: "Lato", sans-serif;
+  font-family: "Akkurat", sans-serif;
   font-size: 15px;
   color: #666;
   line-height: 1.7;
@@ -877,11 +877,11 @@ select {
 
 .hero__overlay--gradient {
   /* background: linear-gradient(to right, #111, #4641FF); */
-  background: linear-gradient(#FCF2DF, #E9EBFA, rgb(255, 255, 255));
+  background: linear-gradient(#C1DFF0, #E9EBFA, rgb(255, 255, 255));
 } 
 
 .hero__overlay--gradientVertical {
-  background: linear-gradient(#FCF2DF, #E9EBFA, rgb(255, 255, 255));
+  background: linear-gradient(#C1DFF0, #E9EBFA, rgb(255, 255, 255));
   /* background: linear-gradient(to bottom, #111, #4641FF);  */
 }
 
@@ -1209,7 +1209,7 @@ span.features {
 
 .cta {
   /* background: linear-gradient(to right, #111, #4641FF); */
-  background: linear-gradient(#FCF2DF, #E9EBFA, rgb(255, 255, 255));
+  background: linear-gradient(#C1DFF0, #E9EBFA, rgb(255, 255, 255));
   color: #111;
   padding: 48pt 0;
   text-align: center; }
@@ -1220,7 +1220,7 @@ span.features {
 
 .cta--reverse {
   /* background: linear-gradient(to left, #111, #4641FF);  */
-  background: linear-gradient(#FCF2DF, #E9EBFA, rgb(255, 255, 255));
+  background: linear-gradient(#C1DFF0, #E9EBFA, rgb(255, 255, 255));
 }
 
 #mc_embed_signup {
